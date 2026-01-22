@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi there, I'm Nicolás Rojas 👋
 
-<!--
-**BugGreen/buggreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data engineer with a backend background. Most of my work is around building data pipelines, real-time systems, and automation in Python.
 
-Here are some ideas to get you started:
+I like working close to the data and the system itself. I care about how things behave under load, how failures are handled, and whether something is actually usable in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+I learn best by building things. When I want to understand a tool or concept, I usually turn it into a small project and improve it step by step, instead of just following tutorials.
+
+Outside of engineering, I enjoy sports, climbing, learning languages, and working on long-term skills.
+
+
+
+
+## ⚙️ I'm currently working on
+
+---
+
+[<img src="assets/trading_bot.png" alt="algorithmic trading system" height="150px">](https://github.com/BugGreen/arbitraje)
+
+> A Python-based algorithmic trading system focused on real-time data ingestion, strategy execution, and automation.
+
+
+
+## 🌱 I’m currently learning 
+
+---
+<img src="assets/n8n.png" alt="n8n" height="120px">
+<img src="assets/docker.png" alt="docker" height="120px">
+<img src="assets/deutsch.png" alt="german language" height="120px">
+
+> Currently exploring automation with n8n, using Docker for local setups, and improving my German step by step.
+
+
+
+
+## 🌐 Open Source Contributions
+
+---
+[<img src="assets/gaia_x.png" alt="gaia-x" height="120px">](https://github.com/GAIA-X4PLC-AAD/ontology-management-base)
+
+> Contributed to Gaia-X related tooling, focusing on interoperability and structured data models.
