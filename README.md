@@ -15,8 +15,6 @@ Outside of engineering, I enjoy sports, climbing, learning languages, and workin
 
 ## ⚙️ I'm currently working on
 
----
-
 [<img src="assets/trading_bot.png" alt="algorithmic trading system" height="120px">](https://github.com/BugGreen/arbitraje)
 
 > A Python-based algorithmic trading system focused on real-time data ingestion, strategy execution, and automation.
@@ -25,7 +23,6 @@ Outside of engineering, I enjoy sports, climbing, learning languages, and workin
 
 ## 🌱 I’m currently learning 
 
----
 <img src="assets/n8n.png" alt="n8n" height="120px"> <img src="assets/docker.png" alt="docker" height="120px"> <img src="assets/deutsch.png" alt="german language" height="120px">
 
 > Currently exploring automation with n8n, using Docker for local setups, and improving my German step by step.
@@ -33,7 +30,6 @@ Outside of engineering, I enjoy sports, climbing, learning languages, and workin
 
 ## 🌐 Open Source Contributions
 
----
 [<img src="assets/gaia_x.png" alt="gaia-x" height="120px">](https://github.com/GAIA-X4PLC-AAD/ontology-management-base)
 
 > Contributed to Gaia-X related tooling, focusing on interoperability and structured data models.
