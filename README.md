@@ -23,9 +23,9 @@ Outside of engineering, I enjoy sports, climbing, learning languages, and workin
 
 ## 🌱 I’m currently learning 
 
-<img src="assets/n8n.png" alt="n8n" height="120px"> <img src="assets/docker.png" alt="docker" height="120px"> <img src="assets/deutsch.png" alt="german language" height="120px">
+<img src="assets/langchain_logo.png" alt="langChain" height="120px"> <img src="assets/React.svg.png" alt="react" height="120px"> <img src="assets/deutsch.png" alt="german language" height="120px">
 
-> Currently exploring automation with n8n, using Docker for local setups, and improving my German step by step.
+> Currently exploring automation with langChain, using React for web applications, and improving my German step by step.
 
 
 ## 🌐 Open Source Contributions
